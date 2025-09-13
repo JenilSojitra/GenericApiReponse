@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GenericApiResponse</id>
+    <version>1.0.0</version>
+    <authors>Jenil Sojitra</authors>
+    <description>A generic API response wrapper for .NET applications.</description>
+    <tags>API Response Wrapper Generic C#</tags>
+    <repository type="git" url="https://github.com/yourrepo" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\bin\Debug\net8.0\GenericApiResponse.dll" target="lib\net8.0\GenericApiResponse.dll" />
+  </files>
+</package>
