@@ -10,3 +10,4 @@ F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericAp
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\refint\GenericApiResponse.dll
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.pdb
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\ref\GenericApiResponse.dll
+F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.sourcelink.json

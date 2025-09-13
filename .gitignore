@@ -1,0 +1,44 @@
+## Ignore build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]og/
+[Ll]ogs/
+
+## Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore Rider project files
+.idea/
+
+## Ignore ASP.NET/Blazor publish folders
+wwwroot/dist/
+wwwroot/node_modules/
+.publish/
+*.publish.xml
+
+## Ignore NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Ignore test results
+TestResults/
+
+## Ignore dotnet tooling folders
+.vscode/
+*.code-workspace
+.vscode-test/
+
+## Ignore generated files
+Generated_Code/
+Client/generated

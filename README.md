@@ -3,7 +3,6 @@
 **Author**: Jenil Sojitra  
 **Company**: Chandra Solution  
 **NuGet Package**: [GenericApiResponse](https://www.nuget.org/packages/GenericApiResponse)  
-**License**: MIT  
 **Version**: 1.0.0  
 
 ## Overview
@@ -307,7 +306,7 @@ public class ValuesController : ControllerBase
 
 ## Contributing
 
-Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/ChandraSolution/GenericApiResponse). Ensure code follows the existing style and includes tests.
+Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/JenilSojitra/GenericApiReponse). Ensure code follows the existing style and includes tests.
 
 ## License
 
@@ -315,4 +314,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions or support, contact Jenil Sojitra at Chandra Solution via [email@example.com](mailto:email@example.com) or open an issue on the GitHub repository.
+For questions or support, contact Jenil Sojitra at Chandra Solution via [jenilsojitra19@gmail.com](mailto:jenilsojitra19@gmail.com) or open an issue on the GitHub repository.

@@ -11,7 +11,7 @@
     <Company>Chandra Solution</Company>
     <Description>A generic API response wrapper for .NET applications.</Description>
     <PackageTags>API Response Wrapper Generic C#</PackageTags>
-    <RepositoryUrl>https://github.com/yourrepo</RepositoryUrl>
+    <RepositoryUrl>https://github.com/JenilSojitra/GenericApiReponse</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

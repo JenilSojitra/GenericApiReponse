@@ -6,7 +6,7 @@
     <authors>Jenil Sojitra</authors>
     <description>A generic API response wrapper for .NET applications.</description>
     <tags>API Response Wrapper Generic C#</tags>
-    <repository type="git" url="https://github.com/yourrepo" />
+    <repository type="git" url="https://github.com/JenilSojitra/GenericApiReponse" commit="4e9e2f899677e9a29bc3191d7e44f5f2e1226793" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.3.0" exclude="Build,Analyzers" />
