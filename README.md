@@ -308,10 +308,6 @@ public class ValuesController : ControllerBase
 
 Contributions are welcome! Please submit issues or pull requests to the [GitHub repository](https://github.com/JenilSojitra/GenericApiReponse). Ensure code follows the existing style and includes tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For questions or support, contact Jenil Sojitra at Chandra Solution via [jenilsojitra19@gmail.com](mailto:jenilsojitra19@gmail.com) or open an issue on the GitHub repository.
