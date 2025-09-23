@@ -1,5 +1,7 @@
 # GenericApiResponse
 
+<img width="735" height="587" alt="genericapiresponse" src="https://github.com/user-attachments/assets/373b3433-f804-4e5e-ab01-72e8a02a8a4b" />
+
 **Author**: Jenil Sojitra  
 **Company**: Chandra Solution  
 **NuGet Package**: [GenericApiResponse](https://www.nuget.org/packages/GenericApiResponse)  
