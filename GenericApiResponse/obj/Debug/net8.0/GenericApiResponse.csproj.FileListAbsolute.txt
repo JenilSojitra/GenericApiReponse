@@ -6,8 +6,8 @@ F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericAp
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.AssemblyInfoInputs.cache
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.AssemblyInfo.cs
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.csproj.CoreCompileInputs.cache
+F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.sourcelink.json
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.dll
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\refint\GenericApiResponse.dll
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.pdb
 F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\ref\GenericApiResponse.dll
-F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\obj\Debug\net8.0\GenericApiResponse.sourcelink.json

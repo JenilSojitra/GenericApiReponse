@@ -4,9 +4,10 @@
     <id>GenericApiResponse</id>
     <version>1.0.0</version>
     <authors>Jenil Sojitra</authors>
+    <icon>Images\logo.jpg</icon>
     <description>A generic API response wrapper for .NET applications.</description>
     <tags>API Response Wrapper Generic C#</tags>
-    <repository type="git" url="https://github.com/JenilSojitra/GenericApiReponse" commit="4e9e2f899677e9a29bc3191d7e44f5f2e1226793" />
+    <repository type="git" url="https://github.com/JenilSojitra/GenericApiReponse" commit="fe13fd2452757d6b4e00649bdbe61ecf79db7d55" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.3.0" exclude="Build,Analyzers" />
@@ -15,5 +16,6 @@
   </metadata>
   <files>
     <file src="F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\bin\Debug\net8.0\GenericApiResponse.dll" target="lib\net8.0\GenericApiResponse.dll" />
+    <file src="F:\jenil\DotNet\GenericApiResponse\GenericApiResponse\Images\logo.jpg" target="Images\logo.jpg" />
   </files>
 </package>

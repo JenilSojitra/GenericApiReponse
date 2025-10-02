@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A generic API response wrapper for .NET applications.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e9e2f899677e9a29bc3191d7e44f5f2e1226793")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe13fd2452757d6b4e00649bdbe61ecf79db7d55")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericApiResponse")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericApiResponse")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,10 +12,19 @@
     <Description>A generic API response wrapper for .NET applications.</Description>
     <PackageTags>API Response Wrapper Generic C#</PackageTags>
     <RepositoryUrl>https://github.com/JenilSojitra/GenericApiReponse</RepositoryUrl>
+    <PackageIcon>Images\logo.jpg</PackageIcon>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Images\logo.jpg" Pack="true" Visible="false" PackagePath="Images\" />
   </ItemGroup>
 
 </Project>
